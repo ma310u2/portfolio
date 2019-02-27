@@ -25,7 +25,7 @@ body{
     background-image: url(001.jpg);
     background-size: cover;
     text-align:center;
-    height: 360px;
+    height: 300px;
 }
 #top-img img{
   max-width:1040%;
@@ -35,9 +35,10 @@ body{
     max-width:1040px;
     margin:0 auto;
     padding-left:30px;
-    font-size:50px;
+    font-size: 45px;
     letter-spacing:2.7px;
     font-family: serif;
+    line-height: 75px;
 }
 #list-top{
      border-top:solid 1px #dcdcdc;
