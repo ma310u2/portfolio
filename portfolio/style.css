@@ -126,7 +126,8 @@ h3{
 #oiriginal-in p{
     padding-top: 5px;
 }
-
+.original-text{
+    text-align: justify;
 
 #list-foot{
     border-top: solid 1px #dcdcdc;
