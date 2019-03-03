@@ -20,7 +20,7 @@ body{
 }
 #logo h1{
     max-width:1040px;
-    margin: 0 auto;
+    margin: 0 20px;
 }
 #top-img{
     background-image: url(001.jpg);
