@@ -56,6 +56,9 @@ a {
     padding:10px 0;
     color: #28394D;
 }
+a:hover{
+    opacity:0.7;
+}
 
 ul {
     list-style: none;
