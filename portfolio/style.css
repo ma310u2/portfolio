@@ -93,7 +93,9 @@ h3{
     margin-left:20px;
     margin-bottom: 30px;
 }
-
+p.year, #hobby {
+    padding-top: 10px;
+}
 #skill{
     margin: 0 30px 60px;
 }
