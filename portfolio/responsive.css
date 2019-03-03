@@ -2,6 +2,7 @@
 
 h2{
     text-align:left;
+    margin-left: 20px;
 }
 #list-top{
      border-top:none;
@@ -14,6 +15,7 @@ h2{
     position: absolute;
     right: 0px;
     top: 18px;
+    margin: 0 20px;
 }
 #list-top li{
     margin-left: 50px;
@@ -78,6 +80,7 @@ li {
 #list-foot ul{
     position:absolute;
     left:0px;
+    margin: 0 20px;
 }
 #list-foot li{
     display:inline;
@@ -96,5 +99,6 @@ footer{
 }
 footer p{
     text-align:right;
+    margin: 30px 20px;
 }
 }
