@@ -34,15 +34,15 @@ li {
     border: none;
     width: 15%;
 }
-#top-img{
-    /* margin-top: 40px; */
-}
 #profile{
          max-width:1040px;
          margin: 20px auto 60px auto;
 }
 #profile-in{
     display: flex;
+}
+#profile-in section {
+    margin-right:0px;
 }
 #profile-in section:nth-child(2){
     margin-left:40px;
