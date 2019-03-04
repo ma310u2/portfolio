@@ -90,8 +90,7 @@ h3{
     font-size:20px;
 }
 #profile-in section{
-    margin-left:20px;
-    margin-bottom: 30px;
+    margin: 0 20px 30px 20px;
 }
 p.year, #hobby {
     padding-top: 10px;
