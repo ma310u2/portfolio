@@ -72,6 +72,7 @@ li {
 } 
 .photo img {
     width: 100%;
+    height: auto;
 }
 #list-foot{
      border-top:none;
