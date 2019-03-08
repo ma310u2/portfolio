@@ -26,17 +26,18 @@ body{
 #top-img{
     background-image: url(002.jpg);
     background-size: cover;
-    text-align:center;
     height: 300px;
 }
 #top-img img{
-  max-width:1040%;
+    max-width:1040%;
  }
-#top-img h1{
-    text-align:left;
+#top-h1{
     max-width:1040px;
     margin:0 auto;
-    padding-left: 20px;
+
+}
+#top-img h1{
+    margin-left:20px;
     font-size: 45px;
     letter-spacing:2.7px;
     font-family: serif;
