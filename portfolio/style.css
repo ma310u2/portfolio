@@ -93,6 +93,7 @@ h3{
 }
 #profile-in section{
     margin: 0 20px 30px 20px;
+    text-align: justify;
 }
 p.year, #hobby {
     padding-top: 10px;
