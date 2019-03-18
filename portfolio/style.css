@@ -117,10 +117,11 @@ li:nth-child(2n+1) {
     text-align: justify;
 }
 
-p.year,
-#hobby {
-    padding-top: 10px;
+.year:nth-child(n+3),#hobby{
+    padding-top:10px;
+
 }
+
 
 /*スキル*/
 
